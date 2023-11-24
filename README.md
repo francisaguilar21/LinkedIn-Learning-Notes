@@ -1,3 +1,3 @@
-# LinkedIn-Learning-Notes
+# 📚 LinkedIn Learning Video Notes 📝
 
 This contains all of my 📝 personal notes from the LinkedIn Learning 💻 videos I watched and studied.
