@@ -1,0 +1,308 @@
+Course Title: Chief Technology Officer Career Guide
+
+Description: Chief technology officers (CTOs) shape both what a company makes and the culture in which it's made. Along with providing innovative solutions and building stellar products on time and on budget, CTOs must curate a solid engineering team and spread the good word about the technology they help to create. In this course, instructor Drew Falkman shares his hard-won, real-world understanding of what it takes to be a great CTO.Learn tips and techniques for hiring a great team, creating a healthy, remote work culture, and improving collaboration across your organization. Explore strategies and analytics for product management, including how to guide an efficient product life cycle so you can get the most out of your technology, particularly in the cloud. Discover the fundamentals of choosing a platform, hosting and servers, and whether or not you should buy or build, as Drew helps you develop the skills you need to become a well-respected, effective CTO.
+
+
+***********************************************
+Chapter: Introduction
+***********************************************
+
+
+-----------------------------------------------
+Video: What you should know
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:16            The goal of this course is to tackle more on MANAGEMENT TECHNIQUES, MISTAKES TO AVOID, and CRITICAL SKILLS TO MASTER. 
+
+
+***********************************************
+Chapter: 1. Your Team
+***********************************************
+
+
+-----------------------------------------------
+Video: Being CTO is a people job
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:28            The CTO's job is to utilize technology to better their company. 
+
+0:00:28            Being a CTO is more about people rather than anything else. As you grow & scale your company, it's more of managing your people rather than your technology. 
+
+0:00:49            Understanding technology is not what is critical. What's important is to have good relationships with the managers of the company in order to understand their pain points. In doing so, you can provide the necessary solutions together with your team to make the whole organization more efficient, profitable, and competitive. 
+
+0:01:18            The problem is that managers don't understand flow that well and end up bugging key employees that should be in a flow state in order to produce maximum outputs. 
+
+0:01:18            Flow: The ability to shut out the environment and to focus on tasks. 
+
+
+-----------------------------------------------
+Video: Hire a great team
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:03            Most important thing to do as a CTO is to HIRE A GREAT TEAM 
+
+0:05:12            When hiring someone, make sure to:
+1. Write a clear job description
+- Input Job Title & Level
+- Key responsibilities
+- Skills & Qualifications
+- Location
+- Company description & benefits
+2. Posting Your Job
+- Be pro active, look into your contacts, social network, team's contacts, user groups, meet ups, etc.
+- Go to specialized job boards like Github & Stackoverflow for Technical, Dribble & Behance for Designers, etc
+3. Interviewing Candidates
+- Test for experience & expertise
+- Assess cultural fit
+- Weigh excitement vs. experience (people with excitement & eagerness to learn is better than someone who knows a specific skill but isn't enthusiastic about it anymore)
+- Having a great Interview Process weeds out weak candidates. Make sure to have technical and/or skills tests.
+- Consider a paid trial project if they're a fit
+- JUST SAY NO TO ROCK STARS. Focus on hiring what matches your need and a personality that matches your culture.
+4. Work Sample
+- Talk about what they did, what challenges they faced, and what they would do differently.
+5. Code Review
+- Make sure to do code reviews. If you don't know the language, find someone who does.
+- Determine how uniform their work is
+- Consider their code first and foremost
+6. Always call references
+7. Have a writing communication test
+- This is important especially for remote work
+8. Culture
+- Hire for diversity
+- Diverse workplaces are more productive
+- Diversity brings strength 
+
+0:06:10            Take your time in hiring. It is extremely important and critical. 
+
+
+-----------------------------------------------
+Video: Outsourcing
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:55            Building In House vs Outsourcing
+1. Is what you're building a market differentiator (has UVP) = Build Yourself
+2. Has it already been built = Consider customizing existing products
+3. Is this a limited need = Shorter projects may be a good case for outsourcing 
+
+0:01:14            Three types of apps you build that can help determine if you should outsource or not:
+1. An app that improves internal processes & infrastructure
+2. Innovation
+3. Integration 
+
+0:02:21            Integrations or systems that usually take a short amount of time or are a one-time thing should highly be considered to be outsourced. UNLESS, it is proprietary or something you'll be tweaking constantly. 
+
+0:02:35            Three Ways to Outsource: (1) Agency, (2) Contractors, (3) Making use of Open Source / Third Party Software & Services 
+
+
+-----------------------------------------------
+Video: Creating a great corporate culture
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:12            Hiring is tough so when you hire one, it is best to create a company where they can enjoy being a part of, maximize their abilities, and make sure they stick around for a while. 
+
+0:00:22            95% of employees value company culture over compensation 
+
+0:00:48            Corporate Culture is a system of shared values defining what is important, what are the norms, and defining appropriate attitudes and behaviors. -- O'Reilly & Chatman, 1966 
+
+0:00:58            Creating Corporate Culture is more than just spewing out words and saying what you value. It is backing it with ACTIONS, STORIES, HIRES, and REWARDS. 
+
+0:01:26            Check out Netflix's Culture: https://jobs.netflix.com/culture 
+
+0:02:17            Based on a Google Study on what makes teams production: What is important is that people felt free to express and have their ideas heard -- Psychological Safety 
+
+0:02:23            Another concept is Freedom & Ownership -- Giving people the freedom & autonomy to achieve their objectives as they see fit 
+
+0:02:44            Large companies make use of OKRs to provide employees freedom & ownership while making sure they adhere to a certain metric & standard. 
+
+0:04:13            Open communication is key to making sure your teams are all on the same page. In order to do so, let them know what you expect of them, provide coaching & training opportunities, reward them, communicate bad news quickly & openly, and make feedback & finances accessible (salary, company situation, etc) 
+
+0:04:39            Having your team interact with your customers can provide a good way for them to better understand the problems that these customers face. Allowing the designers, product managers, and developers to build better software. 
+
+0:05:33            A good way to have customer interaction is to have developers or other engineering roles switch with a customer facing role -- sales, customer service support, etc. 
+
+
+-----------------------------------------------
+Video: Enhancing team communications
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:45            Team Communication: Everyone is talking and they feel free to do so. 
+
+0:02:28            The most important factor is face-to-face exchanges. 
+
+0:02:32            The best teams are those that have communication and engagement outside of formal meetings. 
+
+0:03:14            Organizing workspace to promote easy interaction 
+
+0:03:19            Identify the natural leaders & charismatic connectors in your team and keep them engaged 
+
+0:03:47            Morning standup meeting is a good way to get everyone talking and on the same page 
+
+0:04:05            For Remote Teams: Use tools that can help better communication. 
+
+
+-----------------------------------------------
+Video: Remote teams and culture
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:37            Remote Teams & Culture
+1.  Remote & virtual meetings are challenging. Nothing can replace the understanding and engagement that happens in face-to-face meetings. 
+
+0:01:03            Zoom calls can be taxing especially when you have to go through a lot in a single day 
+
+0:01:37            Set Ground Rules for Remote Teams
+1. Camera guidelines
+2. Shared availability
+3. Overlapping work time 
+
+0:02:15            Async & RealTime Communications Tools are essentials 
+
+0:02:45            Issue Tracking is vital to make sure everyone is on the same page. Make sure all discussion is only done in each specific task to prevent details from being lost 
+
+0:03:31            Video Meeting:
+1. It's better to just do a quick meeting instead of going through a long chat
+2. Make use of tools like Miro to boost collaboration 
+3. Regular check-ins are good to stay connected 
+
+0:04:30            Make sure to include remote workers for on-site meetings that care crucial. 
+
+0:04:43            COMMUNICATION IS THE KEY TO SUCCESS 
+
+
+-----------------------------------------------
+Video: Firing—sometimes you have to do it
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:04:02            Firing Tips & Processes
+1. Whenever you have troubles in your team, the first thing is to check if you can help it
+- Identify people that are not engageable
+
+2. Have group check-ins about how they are and also individual impromptu meetings.
+- Have a lookout for defensive people
+
+3. Make sure to take note of The Blamer
+- Cause ill-will on the team
+- Remember when issues arise, focus on what solution can be done instead of thinking who caused it.
+
+4. The Liar
+- Erodes trusts
+- Steals credit
+- Lies about work completed
+
+5. The Silo-er
+- Works alone when they should be involving the team
+- Changes others' work without mentioning it
+- Works on redundant projects 
+
+0:04:14            IT IS IMPORTANT THAT YOU ARE INSPIRED TO WORK. IF NOT, YOU CAN'T EXPECT YOUR EMPLOYEES TO BE. -- Drew Falkman 
+
+
+***********************************************
+Chapter: 2. Product Management
+***********************************************
+
+
+-----------------------------------------------
+Video: Your job is the product
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:19            The main objective of a CTO is not actually on being technically capable in writing code & making software but in CRAFTING A PRODUCT THAT FITS THE MARKET, IS USEABLE, AND HOPEFULLY ADDICTIVE WHILE BEING BUILT WELL, ON BUDGET, AND ON TIME. 
+
+
+-----------------------------------------------
+Video: Product Strategy
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:03            CTO - the person in charge of the product vision and the strategy to carry that out. 
+
+0:00:29            Product Strategy is the intersection between what the customers need, the vision of the company,  and technology. 
+
+0:00:52            Product Vision is the key first step. It should encompass the business goals, whom you're targeting, and how this will manifest in the product. 
+
+0:01:17            The product vision should be succinct and what product managers can refer to when making product features and setting their KPIs. 
+
+0:01:24            When setting the product vision, it is essential that we consider what is happening, what will happen in the next three months, and what will happen after that up to about a year or more. This is not fixed in stone since this can change based on new data, things we learn as we iterate, etc 
+
+0:02:10            Prioritization is critical. Tools that can be used are Story Mapping, Story Estimation 
+
+0:02:25            Cone of Uncertainty - as less defined an element or feature is, the less certain you can be on how long it will take a build. 
+
+0:03:04            Beware of Hard Deadlines
+- Make sure to only include what you can accomplish since this is a commitment with other departments or entities.
+- Leave requirements somewhat fuzzy. 
+
+0:03:41            Create a Product Roadmap to help guide everyone on the team. This can be as simple as three columns of now, next, later or as complex as you want it to be based on your company requirements. THIS SHOULD BE A LIVE DOCUMENT THAT SHOULD BE REVIEWED BY THE TEAM REGULARLY 
+
+
+-----------------------------------------------
+Video: Capture and use data and analytics
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:03            Capturing Data & Analyzing Metrics is a key objective of CTOs 
+
+0:02:22            Key Data Points (Actionable Metrics):
+1. Customer Acquisition Cost - avg cost to attain a new customer
+2. Lifetime Value (LTV) - avg customer spending in their time as customer
+3. Attrition (Churn) - rate at which people stop being customers
+4. Retention - how long do they stay as customers 
+
+0:03:09            Tools You Can Use: Amplitude, Mixpanel, Pendo, and Heap -- tracking key usage patterns in your app.
+
+Take the time to track all the events that are crucial to your application's performance in order to build customer and operational data. 
+
+0:03:25            Big Data - collecting large volumes of data and looking for trends. 
+
+
+-----------------------------------------------
+Video: Identifying key performance indicators
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:06            Key Performance Indicators - a key set of measurable and obtainable objectives 
+
+0:00:43            Example: Food App KPIs
+1. Completed subscriptions
+2. Skipped weeks
+3. Mobile app downloads
+4. Open new screens (how many open new screens)
+5. View Menu Item Details (how many people view the details of the menu items) 
+
+0:00:55            KPIs are measures, not goals. We can use them to set goals but these metrics are used to get actionable data. 
+
+0:01:32            The key to planning is to THINK BIG FIRST.
+1. Start with your business objectives -- more subscribers, more revenue, more usage
+2. Then think about optimal usage -- are users re-subscribing, are we getting more users, etc.
+
+These questions will drive and help you create your KPIs. 
+
+0:02:02            Get Trackable, Actionable Data: (Example: Food App)
+1. Users are editing our menus? --> Suggests Menu is not appetizing?
+2. If they click the Skip Week button for the menu --> Suggests we rethink our menu items? 
+
+0:02:58            Setting KPIs is vital since you can collect a ton of data and analyze them but a handful of core metrics really matter to your app and business. It is critical to identify 5 (BEST) - 10 key metrics.
+You can have 5 organizational KPIs and additional that are specific to the app or marketing to evaluate the app's effectiveness. 
+
+
+-----------------------------------------------
+Video: A/B and multivariate testing
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:49            A/B (testing one element or screen at a time across an equal sample set) and Multivariate Testing (testing for multiple variables simultaneously) 
+
+0:02:29            Tools for A/B
+- Optimizely
+- Visual Website Optimizer
+- Adobe Target
+- Google Context Experiments 
+
