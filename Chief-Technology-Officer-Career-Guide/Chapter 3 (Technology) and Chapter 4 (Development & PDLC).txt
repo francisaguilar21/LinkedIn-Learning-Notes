@@ -1,0 +1,215 @@
+Course Title: Chief Technology Officer Career Guide
+
+Description: Chief technology officers (CTOs) shape both what a company makes and the culture in which it's made. Along with providing innovative solutions and building stellar products on time and on budget, CTOs must curate a solid engineering team and spread the good word about the technology they help to create. In this course, instructor Drew Falkman shares his hard-won, real-world understanding of what it takes to be a great CTO.Learn tips and techniques for hiring a great team, creating a healthy, remote work culture, and improving collaboration across your organization. Explore strategies and analytics for product management, including how to guide an efficient product life cycle so you can get the most out of your technology, particularly in the cloud. Discover the fundamentals of choosing a platform, hosting and servers, and whether or not you should buy or build, as Drew helps you develop the skills you need to become a well-respected, effective CTO.
+
+
+***********************************************
+Chapter: 3. Technology
+***********************************************
+
+
+-----------------------------------------------
+Video: The great platform choice
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:37            Ideally, you don't want to go for what's the newest and coolest tech. You want something that is tried and tested and that you can scale. 
+
+0:00:53            Everything doesn't always need to scale. When a business grows quickly, you want to get things up and running as fast as possible and worry about traffic and data growth later. 
+
+0:01:46            Look for industry standards when choosing the stack you'll be using. Existing used ones are better to cover certain compliance issues or processes that can be taken care of by the existing technologies. But if you find a new one that can help you do more rapid development, it can give you a competitive edge. 
+
+0:01:55            Another thing to consider is programmer availability. 
+
+0:02:44            Balance scalability with need for speed. 
+
+
+-----------------------------------------------
+Video: Innovation and spotting opportunity
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:36            Innovation:
+1. Know your company's problems.
+-- Are there any processes that can be automated?
+-- Are there constant complaints coming from anyone?
+-- What is working and can it be replicated?
+2. Understand your customer
+-- Always consider who your customers are how you can help them
+3. Watch out for new technologies
+-- Take time to read and stay up to date that can help your platform improve for the better 
+
+0:01:50            Creativity is usually a mix of disciplines. Many geniuses came up with great ideas because they took one simple idea from one aspect of their life and applied it to another. 
+
+0:02:07            Creating an Innovation Culture will not only make you more competitive but also make it more fun for your employees. 
+
+0:03:49            Creating an Innovation Culture:
+1. Be open and have it in your handbook to encourage people to be innovative. Allow experimentation and failure.
+2. Have brainstorming ideas with people. Allow anyone to dream, give ideas, and think of new things that can solve problems, create new features, make customers happier, and a better workplace.
+3. Invest time in R&D and exploration
+4. Hosting hackathons and innovation contents with incentives
+5. Make sure to measure and track the outcome of these innovations 
+
+
+-----------------------------------------------
+Video: Continual process improvement
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:18            Continual Process Improvement can increase productivity and decrease friction. It is important to implement them and constantly refine them to make things go as smoothly as possible. 
+
+0:00:50            A process is needed when things are getting done incorrectly or too long. 
+
+0:01:08            Continual Improvement Process (CIP or CI) - the meta process of analyzing and improving processes on an ongoing basis. Make sure to keep on the lookout for ways you can improve things. 
+
+0:01:51            Process Improvement Meetings are a good way to understand the sprint, improve communication, and process. This is somewhat similar to retrospect meetings but are more focused on the process rather than the actual sprint and deliverables. 
+
+0:03:17            CIP Advantages
+1. Participation makes results useful since the people talking about it are those involved making things more relevant.
+2. Everyone embraces processes especially if they have a hand in creating them.
+3. Making small incremental changes are better than one big swoop that can cause confusion and friction. 
+
+
+-----------------------------------------------
+Video: R&D for you and your team
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:24            Research & Development is not the same as being innovative. Make sure you and your team undergo training & constant learning to stay on top of advancements in their environments. 
+
+0:01:19            Development Spikes are good to integrate into your development routine. It is spending time to test out a new library, framework, or other technology by building a small app or component. 
+
+0:03:17            R&D for You:
+1. Make sure to brush up on your coding skills every now and then. Try new languages and frameworks but make sure to be on top of the code that your team is writing. It's good to check and talk with a dev on how things are in order to understand the company's code to a certain degree.
+2. Read, make sure to always read and learn on new things and technologies happening.
+3. Pay attention to Rumors that may have a big impact on your company (e.g. Changes to Adobe Flash)
+4. Industry, read your competitors blogs, stay up to date on your industry and others that may have good things you can integrate or copy to your own.
+5. Attend conferences since it's still vital to do networking and human interaction. 
+
+
+-----------------------------------------------
+Video: Buy vs. build
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:02:03            Buy vs Build:
+1. What is your core focus and strength?
+2. Has it been built? Can you use existing and proven tools?
+3. Are there costs & risks? Will the price put you out of business long term? Are there compliance issues?
+4. Opportunity Costs - understand what you can build as opposed to buying it. One tool you can use for analyzing is the Warldey Map (https://en.wikipedia.org/wiki/Wardley_map). 
+
+
+***********************************************
+Chapter: 4. Development and the Product Life Cycle
+***********************************************
+
+
+-----------------------------------------------
+Video: The product life cycle
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:34            Software Development Life Cycle (SDLC), Product Life Cycle, Project Life Cycle, Systems Development Life Cycle, or Application Development Life Cycle -- they are all synonymous. 
+
+0:00:49            Planning & Analysis -> Defining Requirements -> Designing -> Development -> Testing -> Deploying -> Planning again 
+
+0:02:01            Iterative Model & Sequential Model are the two methodologies 
+
+
+-----------------------------------------------
+Video: Understanding users and business case
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:32            The business case is the driver as to why we're building the app in the first place. It is best to really understand the problem. 
+
+0:02:17            User Research is vital. Consider qualitative (deep information from a few people but might not be 100% true for everyone) and quantitative research (more shallow but shows results from a larger sample). 
+
+
+-----------------------------------------------
+Video: Defining the requirements
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:08            MoSCoW Prioritization: Must have, Should have, Could have, Won't have 
+
+
+-----------------------------------------------
+Video: Create wireframes and user flows
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:51            Wireframes is to get the elements on screen to have an idea of a rough draft on how it will look like. 
+
+0:01:43            User Flows is how users will use the app. It will show how each section is broken down and how each user type will interact with the app. 
+
+
+-----------------------------------------------
+Video: The design process
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:28            Make sure to include designers in the Planning & Analysis and Requirements Gathering phase. 
+
+0:02:19            Design Feedback:
+- Give it face-to-face
+- Do pre-meeting notes
+- Give what you like/prefer 
+
+0:02:57            Always present the problem and don't provide the solution. Let them come up with it. 
+
+0:03:34            Don't micro-manage, but be specific when interacting with designers 
+
+
+-----------------------------------------------
+Video: The prototype process
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:15            The prototype phase is crucial as it allows the idea to be reviewed immediately and fail early. 
+
+0:01:07            The type of prototyping will depend on what fidelity you want -- low, medium or high. Fidelity is the degree to which an electronic device ACCURATELY reproduces it effect. 
+
+0:01:49            Low Fidelity: happens very early during brainstorming. Usually just happens over paper or online but with rough sketches. 
+
+0:01:59            Medium fidelity is when wireframes will come into play. 
+
+0:02:28            High fidelity mock ups contain sample data, simple transitions and animations, screen flow, and almost the finalized designs 
+
+
+-----------------------------------------------
+Video: How to take feedback
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:02:41            Handling Feedback
+1. We have negative bias. Thus, making us put more weight on negative feedback rather than what's positive.
+2. It is best to not immediately respond to the feedback since the first reaction tends to be emotional.
+3. Listen carefully - take notes, understand what is being said, and make sure you get the important ones despite how emotional things are. Make sure to ask questions to clarify their feedback and breaking it down in order to create actionable fixes.
+4. Digest the feedback after the meetings. Analyze it by yourself and with the team. Understand the root cause as to why it's happening.
+5. Test the changes with the person whom gave the feedback to get additional comments and see if it actually solved the problem. 
+
+0:02:59            Giving Good Feedback to others can make people realize on how they should also give feedback. Remember to be compassionate, specific, clear, and focus on the problem, not the solution. 
+
+
+-----------------------------------------------
+Video: Minimum viable product
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:25            MVP (Minimum Viable Product) is testing the market with a minimal version of a product before spending a ton of time building the full product. 
+
+0:01:09            In order to understand what features are needed, it is important to do a product hypothesis. 
+
+0:02:21            The goal of the MVP is disproving your biggest risk. 
+
+
+-----------------------------------------------
+Video: Testing and continuous integration
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:26            Testing Processes are broken down into two main categories -- Functional & Non-functional. 
+
+0:02:25            Continuous Integration: the goal of CI is to ensure that you code is always tested and clean in every iteration. You also want to consider the tests for performance, usability, security, and compatibility. 
+
