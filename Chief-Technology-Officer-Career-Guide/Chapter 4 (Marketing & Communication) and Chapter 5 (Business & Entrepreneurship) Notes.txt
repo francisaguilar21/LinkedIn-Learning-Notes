@@ -1,0 +1,180 @@
+***********************************************
+Chapter: 5. Marketing and Communication
+***********************************************
+
+
+-----------------------------------------------
+Video: Public speaking
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:25            CTOs are now expected to speak publicly and well. You might need to present to other departments or clients, user groups, and even pitch to investors. 
+
+0:00:51            Glossophobia - Fear of public speaking 
+
+0:01:21            You can improve your public speaking by being prepared:
+1. Create outline or script but do not speak like you're reading from it as it can cause your audience to lose interest.
+2. Practice, practice, practice 
+
+0:02:03            Doing alpha poses before speaking can boost testosterone and actually boost your confidence. 
+
+Watch the Ted Talk by Amy Cuddly: https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are 
+
+0:02:31            Remember to take a pause, slow down, and get back on track. 
+
+
+-----------------------------------------------
+Video: Running efficient meetings
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:16            Management = Having Meetings. Being a CTO calls you to have meetings that can eat up to 50% of your time. 
+
+0:00:52            Long Meetings end up being inefficient since people get distracted and sleepy leading to disengagement. This usually happens when there are too much content to cover. 
+
+0:00:58            Better to do frequent short meetings rather than long ones. 
+
+0:03:07            Meetings are a good way to disseminate ideas, brainstorm, and run teams effectively. It is vital to only make it as long as necessary and effective. 
+
+
+-----------------------------------------------
+Video: Marketing and launching products
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:51            Soft launches are great if you want to focus on gradually recruiting users first and testing it with them before doing a promotional / public launch. 
+
+0:02:10            Beta Launches are a good way to get customers before you even start getting customers. You can capture their emails using coming soon pages & landing pages. This also allows you to build your audience and communicate & test with them through social media and search ads. 
+
+0:02:51            Influencers in your spheres can be a good way to market your product. 
+
+0:03:12            Once you launch your product, you need to consistently produce content. Release information consistently, sample users and their feedback, create surprise features that entice the public, and release ROI data. 
+
+0:03:13            Once you launch your product, you need to consistently produce content. Release information consistently, sample users and their feedback, create surprise features that entice the public, and release ROI data. 
+
+
+-----------------------------------------------
+Video: A note on messaging and emails
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:03:33            Team Communication
+1. Email - only email with your team when necessary as it consumes a lot out of your time and it takes 16 minutes for us to get back on track after an email.
+2. Email Alternatives - can we do this in person, in a quick meeting, comment through PM software, or a quick message over at Slack.
+3. Project Management tools - make sure your To-dos are not in your email but in your PM tools.
+
+Always make sure you are using the right tool for the thing you're discussing or talking about. Think twice before you CC someone or send them a message. 
+
+
+***********************************************
+Chapter: 6. Business and Entrepreneurship
+***********************************************
+
+
+-----------------------------------------------
+Video: The many hats of entrepreneurs
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:36            As a CTO & entrepreneur, it is critical that you understand what your work will be. Bigger companies allow you to focus and specialize while smaller ones stretch you to manage multiple hats. At the end of the day, it is vital that you communicate with your other C-level executive your roles and their expectation while not deterring from your main focus which is to meet the KPIs set by your CEO and building the product. 
+
+0:02:06            Remember to watch out for opportunities to hire, outsource, and delegate especially as certain tasks become a distraction. 
+
+0:02:28            It's essential to find your own balance in doing what you can and meeting your deliverable. There's no one formula for everyone but having great communication, knowing your priorities, and drawing boundaries can make the success rate of your company higher. 
+
+
+-----------------------------------------------
+Video: Being proactive
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:07            Being Proactive - the number one habit in Stephen R. Covey's famous book, The Seven Habits of Highly Effective People and nowhere is this more important than in technology management. 
+
+0:00:17            Proactive is the trait of taking ownership of your life, actions, and sphere of work. 
+
+0:00:22            Reactive is relying on other people and circumstance for direction. 
+
+0:00:48            Look for solution, not who to blame. Encourage your team to do the same. 
+
+0:03:32            In a Startup Environment, it is important to assess and consider risks (Risk Management), focus on improving team morale for better productivity, and continual process improvement. 
+
+0:03:57            Make sure to celebrate small wins when you ship new new features, updates, and fixed. Remember to thank and reward your team for putting out fires. Lastly, don't be afraid to hire skilled pros to help you solve tough problems or get you through rough patches. 
+
+
+-----------------------------------------------
+Video: Managing up
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:21            Managing up is a skill on how good you effectively work with your boss. 
+
+0:00:39            Managing Up is thinking how you can make the life of the person you're reporting to easier and doing that. 
+
+0:01:18            In order to be great at this skill, you need to have a good relationship -- have rapport and mutual respect. Spend time with them, have fun and use humor appropriately. Lastly, be truthful to them. 
+
+0:02:48            Never bring problems to your CEO, only solutions. THAT IS WHAT MAKES YOU A LEADER. 
+
+
+-----------------------------------------------
+Video: P/L and business numbers
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:16            As a C-level executive, it is important that you understand the basics of accounting and finance especially the jargon. This can help you better understand when communicating with your CEO. 
+
+0:00:49            Balance sheet is the statement of financial position which shows the company's assets, liabilities, and equities. 
+
+0:02:01            Income statement shows the company's performance over a specific period of time. 
+
+0:03:41            Key Ratios:
+1. EPS (Earnings per share): Income / Total Shares
+2. ROE (Return on equity): Revenue / Expenses
+3. ROA (Return on assets): Revenue / Assets
+4. Gross profit = revenue - COGS
+5. Operating profit = gross profit - expenses
+6. Net income = operating profit - taxes - interests
+7. EBIT (Earning before interests and taxes): earnings before tax and depreciation amortization 
+
+0:04:11            Cash Flow Statement shows the company's financial resources & obligations for a single point in time. It it used to determine how the company is able to make payments. 
+
+0:04:41            Budgets & Forecasts - they're forward looking and more into projecting revenues and anticipating expenses. 
+
+
+-----------------------------------------------
+Video: Growing and scaling
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:05:06            The role of a CTO changes as a company grows. As it becomes bigger and bigger, you hand off technical responsibilities and focus more on the corporate vision, evangelizing technology inside and outside of the company, and advocating for financial resources for the IT department. 
+
+
+-----------------------------------------------
+Video: Managing crises
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:19            The CTO will always be responsible for the tech regardless of the situation. 
+
+0:02:28            5 Step Process for Handling Crisis
+1. Assess the situation
+-- Don't solve it, blame, or panic. Just breathe in and assess.
+-- How bad is it? Where did it go wrong? Who is working there? Who was affected?
+
+2. Contact Those Involved
+-- Contact stakeholders and anyone who has domain knowledge that could help fix it
+
+3. Set a Plan for Resolution
+-- What needs to happen to the server / code?
+-- How have the users been affected?
+-- Will you reach out to the press especially if it could harm your corporate reputation
+
+4. Plan for the Best & Worst Case
+-- Be proactive
+-- Agree upon actions to take
+-- Execute it right
+-- Test and see if it's been fixed
+
+5. Communicate
+-- Be as transparent as you can be
+-- Share relevant information and solutions to those affected 
+
