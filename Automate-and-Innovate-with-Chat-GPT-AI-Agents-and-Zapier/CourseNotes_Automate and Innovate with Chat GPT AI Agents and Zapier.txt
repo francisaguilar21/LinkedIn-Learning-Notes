@@ -1,0 +1,40 @@
+Course Title: Automate and Innovate with Chat GPT AI Agents and Zapier by Jules White
+
+Description: Explore the future of work productivity: leveraging AI agents in tandem with Zapier. In this course, instructor Jules White shows you how to use ChatGPT, AI agents, and Zapier to build automation tools that can handle complex tasks, boost your efficiency, and help you get more done faster with less stress. Along the way, gather insights on how to harness these tools to streamline your workflow and focus on what matters most. Upon completing this course, you’ll be prepared to automate and innovate, transforming the way you work to achieve your goals.
+
+
+***********************************************
+Chapter: 1. Automate and Innovate with ChatGPT, AI Agents, and Zapier
+***********************************************
+
+
+-----------------------------------------------
+Video: Prompt programming 101: Unlocking AI capabilities with ChatGPT
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:04:31            Prompt Programming 101 Key Notes:
+
+1. Set the tone at the start and how you want the AI to response.
+
+2. Give it the a ton of background information about yourself that you to would help the 
+agent make its responses more tailored fit to your questions.
+
+3. Tell the Agent how you want the response to be -- format, tone, etc. 
+
+
+-----------------------------------------------
+Video: Teaching ChatGPT: How to use Zapier actions for automation
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:06:16            When creating actions for a GPT agent, it follows a JSON schema. Zapier has made this simple by providing a link wherein the schema can be downloaded -- it looks similar to a swagger file. 
+
+
+-----------------------------------------------
+Video: Building action steps: Automate tasks with Zapier and ChatGPT
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:04:24            It is vital to make sure that the action name is unique to help the Agent execute the correct function. 
+
